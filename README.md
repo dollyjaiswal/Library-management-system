@@ -1,7 +1,6 @@
 # Online Library Management System
 #### An interactive web portal for automating various manual processes done by librarian.
 
-[![GitHub repo size](https://img.shields.io/github/repo-size/vinitshahdeo/Library-Management-System.svg?logo=github&style=social)](https://vinitshahdeo.github.io/Library-Management-System/) [![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/vinitshahdeo/Library-Management-System.svg?logo=git&style=social)](https://vinitshahdeo.github.io/Library-Management-System/) [![GitHub license](https://img.shields.io/github/license/vinitshahdeo/Library-Management-System.svg?style=social&logo=github)](https://github.com/vinitshahdeo/Library-Management-System/blob/master/LICENSE)
 
 ## Abstract
 
@@ -11,11 +10,7 @@
 
 Manual process of keeping student records, book records, account details, managing employee is very difficult. There are various problems also faced by the student in library such as finding any particular book, information whether book is available or not, for what time this book will be available, searching of books using ISBN number etc. To eliminate this manual system, **Library Management System** has been developed.
 
-[![PPT](https://img.shields.io/static/v1.svg?label=Project&message=PPT&logo=microsoft-powerpoint&style=social)](https://github.com/vinitshahdeo/Library-Management-System/raw/master/PPTs/ONLINE%20LIBRARY%20MANAGEMENT%20SYSTEM.pptx) [![report](https://img.shields.io/static/v1.svg?label=Project&message=Report&logo=microsoft-word&style=social)](https://github.com/vinitshahdeo/Library-Management-System/raw/master/PROJECT%20REPORT/LIBRARY%20Management%20System%20Report.pdf)
 
-> **You can download the report [here](https://github.com/vinitshahdeo/Library-Management-System/raw/master/PROJECT%20REPORT/LIBRARY%20Management%20System%20Report.pdf). To download the presentation, [click here](https://github.com/vinitshahdeo/Library-Management-System/raw/master/PPTs/ONLINE%20LIBRARY%20MANAGEMENT%20SYSTEM.pptx).**
-
-> **You can check the screenshots of User Interface [here](https://github.com/vinitshahdeo/Library-Management-System/tree/master/screenshots).**
 
 ## Core Features
 
@@ -76,7 +71,6 @@ Manual process of keeping student records, book records, account details, managi
 
 ## Requirements
 
-[![PHP](https://img.shields.io/static/v1.svg?label=Source%20Code&message=php&logo=php&style=social)](https://vinitshahdeo.github.io/Library-Management-System/)
 
 The source code of this project is written in **PHP**. So, you'll require **WAMP/XAMPP/MAMP** to run this project.
 
@@ -96,57 +90,3 @@ The source code of this project is written in **PHP**. So, you'll require **WAMP
 4. Run **`localhost/{YOUR FOLDER NAME}`**
 
 
-## License
-
-[![GitHub license](https://img.shields.io/github/license/vinitshahdeo/Library-Management-System.svg?style=social&logo=github)](https://github.com/vinitshahdeo/Library-Management-System/blob/master/LICENSE) [![Author](https://img.shields.io/static/v1.svg?label=Author&message=@vinitshahdeo&logo=github&style=social)](https://github.com/vinitshahdeo)
-
-**MIT &copy; [Vinit Shahdeo](https://github.com/vinitshahdeo/Library-Management-System/blob/master/LICENSE)**
-
-[![](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/Library-Management-System/images/0)](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/Library-Management-System/links/0)[![](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/Library-Management-System/images/1)](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/Library-Management-System/links/1)[![](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/Library-Management-System/images/2)](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/Library-Management-System/links/2)[![](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/Library-Management-System/images/3)](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/Library-Management-System/links/3)[![](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/Library-Management-System/images/4)](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/Library-Management-System/links/4)[![](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/Library-Management-System/images/5)](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/Library-Management-System/links/5)[![](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/Library-Management-System/images/6)](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/Library-Management-System/links/6)[![](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/Library-Management-System/images/7)](https://sourcerer.io/fame/vinitshahdeo/vinitshahdeo/Library-Management-System/links/7)
-
-<a href="https://twitter.com/Vinit_Shahdeo"><img src="images5/twitter.png" width="32px" height="32px"></a> <a href="https://www.facebook.com/vinit.shahdeo"><img src="images5/facebook.png" width="32px" height="32px"></a> <a href="https://www.linkedin.com/in/vinitshahdeo/"><img src="images5/linkedin.png" width="32px" height="32px"></a>
-
-## Oh, Thanks!
-
-[![saythanks](https://img.shields.io/badge/say-thanks-ff69b4.svg)](https://facebook.com/vinit.shahdeo) 
-[![Twitter](https://img.shields.io/twitter/url/https/github.com/vinitshahdeo/Library-Management-System.svg?style=social)](https://twitter.com/intent/tweet?text=Library%20Management%20System%20by@Vinit_Shahdeo%20:&url=https://github.com/vinitshahdeo/Library-Management-System)
-
-Thank you for being here!
-This project has saved me and my friends for many times in college.
-
-```bash
-
-   ____ _           _   _                   
-  / ___| | __ _  __| | | |_ ___             
- | |  _| |/ _` |/ _` | | __/ _ \            
- | |_| | | (_| | (_| | | || (_) |           
-  \____|_|\__,_|\__,_|  \__\___/            
-  ___  ___  ___                             
- / __|/ _ \/ _ \                            
- \__ \  __/  __/                            
- |___/\___|\___|      _                   _ 
-  _   _  ___  _   _  | |__   ___ _ __ ___| |
- | | | |/ _ \| | | | | '_ \ / _ \ '__/ _ \ |
- | |_| | (_) | |_| | | | | |  __/ | |  __/_|
-  \__, |\___/ \__,_| |_| |_|\___|_|  \___(_)
-  |___/                                     
-
-
-```
-
-**Share your story([vinitshahdeo@gmail.com](https://mail.google.com/mail/))** if you're using this repo for your mini/course project. I will be more than happy to know how does this project helped you.
-
-[![GMAIL](https://img.shields.io/static/v1.svg?label=send&message=vinitshahdeo@gmail.com&color=red&logo=gmail&style=social)](https://www.github.com/vinitshahdeo) [![GitHub followers](https://img.shields.io/github/followers/vinitshahdeo.svg?label=Follow&style=social)](https://github.com/vinitshahdeo/)
-
-------
-
-```javascript
-
-  if (isAwesome) {
-    // thanks in advance :p
-    starThisRepository();
-  }
-  
-```
-
--------
